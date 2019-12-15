@@ -1,0 +1,26 @@
+body {
+    background-image: url(images/email-pattern.png);
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center
+}
+
+#MAX {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+#box {
+    font-family: verdana;
+}
+
+#bix {
+    font-family: verdana;
+}
+
+#bux {
+    font-family: verdana;
+}
