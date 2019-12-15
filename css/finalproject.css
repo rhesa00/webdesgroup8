@@ -1,0 +1,21 @@
+body{
+    background-image: url(image/5-dots.png);
+    background-color: black;
+}
+
+h1 {
+    font-family: fantasy;
+    color: lightgreen;
+    font-size: 80px;
+}
+
+p {
+    color: yellowgreen;
+    text-indent: 50px;
+    
+}
+
+#footer {
+    color: white;
+    text-align: right
+}
