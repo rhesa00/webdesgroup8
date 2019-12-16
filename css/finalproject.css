@@ -1,18 +1,36 @@
 body{
-    background-image: url(image/5-dots.png);
+    background-image: url(/images/5-dots.png);
     background-color: black;
+}
+
+#content {
+    
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: darkred;
+}
+
+#header {
+    background-color: firebrick
 }
 
 h1 {
     font-family: fantasy;
     color: lightgreen;
     font-size: 80px;
+    width: 800px;
+    margin: auto;
+    text-align: center
 }
 
 p {
     color: yellowgreen;
     text-indent: 50px;
-    
+    font-family: sans-serif;
+    margin-top: -1px;
 }
 
 #footer {
