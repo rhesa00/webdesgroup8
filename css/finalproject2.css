@@ -2,25 +2,79 @@ body {
     background-image: url(images/email-pattern.png);
 }
 
+#bex {
+    background: grey;
+    color :gold;
+    
+}
+#content {
+   
+    
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    margin-top: -40px;
+    
+    background-color: lightgrey;
+}
+
 h1 {
-    font-family: fantasy;
-    font-size: 50px;
-    text-align: center
+    font-family: monospace;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 100px;
+    font-variant: small-caps;
+    word-spacing: -25px; 
+}
+
+
+p {
+    font-family: sans-serif;
+    text-align: justify;
+    text-transform:lowercase;
+    word-spacing: -3px;
+    line-height: -10px;
+    
+    
 }
 
 #MAX {
-    font-size: 20px;
-    font-family: cursive;
+    width: 800px;
+    margin: auto;
+    margin-top: -41px;
+    font-size: 25px;
+    font-family:fantasy;
+    background-color: lightgray
+}
+
+#bet {
+    background-image: url(/gambar/Sports-Betting.jpg)
 }
 
 #box {
     font-family: verdana;
+    font-style: italic;
+    
 }
 
 #bix {
     font-family: verdana;
+    font-style: italic;
 }
 
 #bux {
     font-family: verdana;
+    font-style: italic;
+    
+}
+
+
+#footer {
+    background: lightgray;
+    widows: 100%;
+    margin: auto;
+    padding: 3px 0px;
+    
 }
