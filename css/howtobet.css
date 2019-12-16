@@ -1,0 +1,76 @@
+body {
+    background-image: url(image/neon-pattern-24155-1920x1080.jpg);
+}
+
+#bex {
+    background: black;
+    color :forestgreen;
+    
+}
+#content {
+   
+    
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    margin-top: -40px;
+    
+    background-color: silver;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 100px;
+    font-variant: small-caps;
+    word-spacing: -25px; 
+}
+
+
+p {
+    font-family: sans-serif;
+    text-align: justify;
+    text-transform:lowercase;
+    word-spacing: -3px;
+    line-height: -10px;
+    
+    
+}
+
+#MAX {
+    width: 800px;
+    margin: auto;
+    margin-top: -41px;
+    font-size: 25px;
+    font-family:fantasy;
+    background-color: lightgray
+}
+
+#box {
+    font-family: verdana;
+    font-style: italic;
+    
+}
+
+#bix {
+    font-family: verdana;
+    font-style: italic;
+}
+
+#bux {
+    font-family: verdana;
+    font-style: italic;
+    
+}
+
+
+#footer {
+    background: lightgray;
+    widows: 100%;
+    margin: auto;
+    padding: 3px 0px;
+    
+}
